@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../Lab_7_aes"
+		},
+		{
+			"name": "Publisher",
+			"path": "../../Publisher"
+		},
+		{
+			"name": "Subscriber",
+			"path": "../../Subscriber"
+		},
+		{
+			"name": "FinalProject-Part1",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

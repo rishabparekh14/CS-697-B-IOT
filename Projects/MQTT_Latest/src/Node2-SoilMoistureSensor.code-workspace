@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "../../Node2-SoilMoistureSensor"
+		},
+		{
+			"name": "HeltecLoraReciever",
+			"path": "../../HeltecLoraReciever"
+		},
+		{
+			"name": "ESP32_BLE_Server",
+			"path": "../../ESP32_BLE_Server"
+		},
+		{
+			"name": "ESP32_BLE_Client",
+			"path": "../../ESP32_BLE_Client"
+		},
+		{
+			"name": "MQTT",
+			"path": "../../MQTT"
+		},
+		{
+			"name": "ESP32_server_New",
+			"path": "../../ESP32_server_New"
+		},
+		{
+			"name": "ESP32_Client_new",
+			"path": "../../ESP32_Client_new"
+		},
+		{
+			"name": "MQTT_Latest",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

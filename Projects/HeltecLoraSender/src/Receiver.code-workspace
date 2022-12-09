@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../Node2-SoilMoistureSensor"
+		},
+		{
+			"name": "HeltecLoraSender",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

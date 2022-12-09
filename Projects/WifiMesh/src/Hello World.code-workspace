@@ -1,0 +1,48 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../Hello World"
+		},
+		{
+			"name": "Relay",
+			"path": "../../Relay"
+		},
+		{
+			"name": "BME 680",
+			"path": "../../BME 680"
+		},
+		{
+			"name": "MotionSensor",
+			"path": "../../MotionSensor"
+		},
+		{
+			"name": "APDS9960",
+			"path": "../../APDS9960"
+		},
+		{
+			"name": "WifiMesh",
+			"path": ".."
+		},
+		{
+			"name": "WireMeshNode1",
+			"path": "../../WireMeshNode1"
+		},
+		{
+			"name": "Node2-SoilMoistureSensor",
+			"path": "../../Node2-SoilMoistureSensor"
+		},
+		{
+			"name": "PainlessMeshReceiver",
+			"path": "../../PainlessMeshReceiver"
+		},
+		{
+			"name": "PIR_Node2_PainlessMesh",
+			"path": "../../PIR_Node2_PainlessMesh"
+		},
+		{
+			"name": "Node3-PainlessMesh",
+			"path": "../../Node3-PainlessMesh"
+		}
+	],
+	"settings": {}
+}

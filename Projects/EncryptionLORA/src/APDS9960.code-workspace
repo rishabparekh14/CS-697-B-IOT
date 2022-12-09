@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../APDS9960"
+		},
+		{
+			"name": "EncryptionLORA",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
